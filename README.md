@@ -1,4 +1,4 @@
-# augmented-reality
+# Holo Lensify
 Computer vision project focused on augmented reality using marker detector and pose estimation.
 
 ## Table of Contents
